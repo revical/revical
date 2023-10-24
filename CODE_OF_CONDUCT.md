@@ -1,8 +1,8 @@
 <!-- Part of the Revical Project, under the MIT license. See '/LICENSE' for license information. SPDX-License-Identifier: MIT License. -->
 
-# Code of Conduct
+# 🤝 Code of Conduct
 
-- [Code of Conduct](#code-of-conduct)
+- [🤝 Code of Conduct](#-code-of-conduct)
   - [Guidelines](#guidelines)
   - [Detailed guidance](#detailed-guidance)
     - [Be welcoming](#be-welcoming)
