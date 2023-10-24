@@ -10,7 +10,7 @@
 
 ## 🖥️ Environment Setup
 
-> [!INFO]\
+> [!IMPORTANT]\
 > GitHub Codespaces uses devcontainers to setup development environments. If you are using GitHub Codespaces, you can skip this section. This is because we have a devcontainer setup ready.
 
 Requirements to setup the development environment for Revical:
