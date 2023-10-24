@@ -1,0 +1,4 @@
+{
+    "image": "mcr.microsoft.com/devcontainers/universal:2",
+    "postStartCommand": "sudo apt install -y xvfb && Xvfb :1 && export DISPLAY=:1"
+}
