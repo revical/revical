@@ -1,8 +1,8 @@
 <!-- Part of the Revical Project, under the MIT license. See '/LICENSE' for license information. SPDX-License-Identifier: MIT License. -->
 
-# Contributors
+# 👤 Contributors
 
-This is the **official list of people who have contributed** to the Revical Project in some way.
+This is the **official list of people who have contributed** to Revical in some way.
 
 <!-- Kindly keep the list sorted by appending your name to the end of the file, and aligning the columns of the table. -->
 

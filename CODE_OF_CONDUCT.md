@@ -3,8 +3,8 @@
 # 🤝 Code of Conduct
 
 - [🤝 Code of Conduct](#-code-of-conduct)
-  - [Guidelines](#guidelines)
-  - [Detailed guidance](#detailed-guidance)
+  - [📑 Guidelines](#-guidelines)
+  - [🔍 Detailed guidance](#-detailed-guidance)
     - [Be welcoming](#be-welcoming)
     - [Be friendly and patient](#be-friendly-and-patient)
     - [Be considerate](#be-considerate)
@@ -12,7 +12,7 @@
     - [Be careful in the words that we choose](#be-careful-in-the-words-that-we-choose)
     - [When we disagree, we try to understand why](#when-we-disagree-we-try-to-understand-why)
 
-## Guidelines
+## 📑 Guidelines
 
 Revical's community aims to to be welcoming and friendly. To make sure this doesn't change as we grow and evolve, we have a few ground rules that we ask all community members to follow:
 
@@ -28,7 +28,7 @@ This code of conduct applies to all spaces managed by the Revical Project. This 
  
 Our standards for acceptable behavior should be upheld by all community members, regardless of their status. Everyone is encouraged to speak up in response to any behavior they believe is inappropriate, threatening, offensive or harmful.
 
-## Detailed guidance
+## 🔍 Detailed guidance
 
 ### Be welcoming
 

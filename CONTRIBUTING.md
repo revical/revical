@@ -1,10 +1,10 @@
 <!-- Part of the Revical Project, under the MIT license. See '/LICENSE' for license information. SPDX-License-Identifier: MIT License. -->
 
-# Contributing
+# Contributing Guide
 
 As a contributors, here is an outline of the steps you should take to contribute to Revical:
 
-- [Contributing](#contributing)
+- [Contributing Guide](#contributing-guide)
   - [🤝 Code of Conduct](#-code-of-conduct)
 
 ## 🤝 Code of Conduct
