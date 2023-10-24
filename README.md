@@ -4,7 +4,9 @@
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/revical/revical)](https://goreportcard.com/report/github.com/revical/revical)
 ![Lines of Code](https://img.shields.io/github/languages/code-size/revical/revical)
-[![wakatime](https://wakatime.com/badge/user/b4317b02-0c6d-457b-82a4-a448b8a8d1df/project/018b6102-d6aa-471e-9e3c-d857da656625.svg)](https://wakatime.com/badge/user/b4317b02-0c6d-457b-82a4-a448b8a8d1df/project/018b6102-d6aa-471e-9e3c-d857da656625)
+[![Discord](https://img.shields.io/discord/1166348582689976411?label=discord)](https://discord.gg/djqx9Xzyjc)
+[![WakaTime](https://wakatime.com/badge/user/b4317b02-0c6d-457b-82a4-a448b8a8d1df/project/018b6102-d6aa-471e-9e3c-d857da656625.svg)](https://wakatime.com/badge/user/b4317b02-0c6d-457b-82a4-a448b8a8d1df/project/018b6102-d6aa-471e-9e3c-d857da656625)
+
 
 - [Revical](#revical)
   - [👀 Usage](#-usage)
@@ -18,7 +20,7 @@ Revical (from **Revi**sion Re**cal**l), is an *open-source*, *privacy-centered* 
 
 ## 👀 Usage
 
-Revical is in the *alpha* stages of development, and so it is not yet ready for use. A ⭐ **star** on this repository will help us know that you are **interested** in using Revical, and will help me know that my work is not going unnoticed.
+Revical is in the *alpha* stages of development, and so it is not yet ready for use. A ⭐ on this repository will help us know that you are **interested** in using Revical, and will help me know that my work is not going unnoticed.
 
 ## 📚 Learn More
 
