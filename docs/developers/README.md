@@ -17,6 +17,7 @@
 
 Requirements to setup the development environment for Revical:
 
+- [**Git**](https://git-scm.com/downloads) - For cloning the repository.
 - [**Wails**](https://wails.app/) - Used to build the frontend and backend together.
   - Wails has an [**Install Guide**](https://wails.io/docs/gettingstarted/installation) guide that is recommended to follow. Wails has other dependencies, but they will not be listed here to avoid redundancy.
 
