@@ -1,30 +1,15 @@
-import './App.css'
-import logo from "./assets/images/logo-universal.png"
-import {Greet} from "../wailsjs/go/main/App";
-import {useState} from "preact/hooks";
-import {h} from 'preact';
+import { Component, h } from "preact";
 
-export function App(props: any) {
-    const [resultText, setResultText] = useState("Please enter your name below 👇");
-    const [name, setName] = useState('');
-    const updateName = (e: any) => setName(e.target.value);
-    const updateResultText = (result: string) => setResultText(result);
+interface AppProps { }
 
-    function greet() {
-        Greet(name).then(updateResultText);
+interface AppState {
+    currentTab: string;
+}
+
+export class App extends Component<AppProps, AppState> {
+    state: AppState = { currentTab: "flashcards" };
+
+    render() {
+        return <div id="app"></div>;
     }
-
-    return (
-        <>
-            <div id="App">
-                <img src={logo} id="logo" alt="logo"/>
-                <div id="result" className="result">{resultText}</div>
-                <div id="input" className="input-box">
-                    <input id="name" className="input" onChange={updateName} autoComplete="off" name="input"
-                           type="text"/>
-                    <button className="btn" onClick={greet}>Greet</button>
-                </div>
-            </div>
-        </>
-    )
 }
