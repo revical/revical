@@ -1,5 +1,5 @@
 import { render } from 'preact';
-import { App } from './assets/components/app';
+import { App } from './components/app';
 
 import { GetConfig } from "../wailsjs/go/main/App";
 

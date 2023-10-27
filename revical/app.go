@@ -2,6 +2,8 @@ package main
 
 import (
 	"context"
+
+	"github.com/wailsapp/wails/v2/pkg/runtime"
 )
 
 // App struct
@@ -22,4 +24,16 @@ func (a *App) startup(ctx context.Context) {
 
 func (a *App) GetConfig() map[string]string {
 	return map[string]string{"a": "1"}
+}
+
+func (a *App) WindowMaximise() {
+	runtime.WindowMaximise(a.ctx)
+}
+
+func (a *App) WindowMinimise() {
+	runtime.WindowMinimise(a.ctx)
+}
+
+func (a *App) Quit() {
+	runtime.Quit(a.ctx)
 }

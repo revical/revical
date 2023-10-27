@@ -7,6 +7,13 @@
     "editor.fontSize": 13,
     "editor.formatOnSave": true,
     "editor.suggest.localityBonus": true,
+    "files.exclude": {
+        "**/dist": true,
+        "**/node_modules": true,
+        "**/package*json*": true,
+        "**/tsconfig*.json": true,
+        "**/vite.config.ts": true
+    },
     "git.enableSmartCommit": true,
     "git.confirmSync": false,
     "git.autofetch": true,

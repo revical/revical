@@ -5,3 +5,15 @@
 export function GetConfig() {
   return window['go']['main']['App']['GetConfig']();
 }
+
+export function Quit() {
+  return window['go']['main']['App']['Quit']();
+}
+
+export function WindowMaximise() {
+  return window['go']['main']['App']['WindowMaximise']();
+}
+
+export function WindowMinimise() {
+  return window['go']['main']['App']['WindowMinimise']();
+}
