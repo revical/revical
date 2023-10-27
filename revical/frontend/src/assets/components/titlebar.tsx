@@ -8,7 +8,7 @@ export class Titlebar extends Component<TitlebarProps, TitlebarState> {
     render() {
         return (
             <div id="titlebar">
-                a
+                Titlebar
             </div>
         );
     }

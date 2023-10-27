@@ -12,7 +12,7 @@ export class Toolbar extends Component<ToolbarProps, ToolbarState> {
     render() {
         return (
             <div id="toolbar">
-                a
+                Toolbar
             </div>
         );
     }

@@ -1,8 +1,7 @@
 import { Component, h } from "preact";
 
-import { MainWindow } from "./main-window";
+import { Window } from "./window";
 import { Titlebar } from "./titlebar";
-import { Toolbar } from "./toolbar";
 
 interface AppProps { }
 
@@ -13,8 +12,7 @@ export class App extends Component<AppProps, AppState> {
         return (
             <>
                 <Titlebar />
-                <Toolbar />
-                <MainWindow />
+                <Window />
             </>
         );
     }
