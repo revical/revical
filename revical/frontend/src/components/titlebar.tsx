@@ -9,11 +9,15 @@ interface TitlebarState { }
 export class Titlebar extends Component<TitlebarProps, TitlebarState> {
     render() {
         return (
-            <div id="titlebar">
-                <span id="title-label" data-wails-drag>Title</span>
-                <span onClick={WindowMinimise}><i class="circular link small inverted grey minus icon"></i></span>
-                <span onClick={WindowMaximise}><i class="circular link small inverted grey window maximize icon"></i></span>
-                <span onClick={Quit}><i class="circular link small inverted red times icon"></i></span>
+            <div id="titlebar" data-wails-drag>
+                <div id="titlebar-title">
+                    <span id="title-label">Revical</span>
+                </div>
+                <div id="titlebar-controls">
+                    <div class="icon" onClick={async () => await WindowMinimise()}><img src="/assets/img/window/minimise.png"></img></div>
+                    <div class="icon" onClick={async () => await WindowMaximise()}><img src="/assets/img/window/maximise.png"></img></div>
+                    <div class="icon" id="close" onClick={async () => await Quit()}><img src="/assets/img/window/close.png"></img></div>
+                </div>
             </div>
         );
     }

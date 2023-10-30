@@ -12,7 +12,8 @@
         "**/node_modules": true,
         "**/package*json*": true,
         "**/tsconfig*.json": true,
-        "**/vite.config.ts": true
+        "**/vite.config.ts": true,
+        "**/frontend/wailsjs": true
     },
     "git.enableSmartCommit": true,
     "git.confirmSync": false,
