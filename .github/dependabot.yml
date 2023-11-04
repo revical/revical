@@ -1,0 +1,21 @@
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: daily
+
+  - package-ecosystem: npm
+    directory: /revical/frontend
+    schedule:
+      interval: daily
+
+  - package-ecosystem: npm
+    directory: /revical/frontend/wailsjs/runtime
+    schedule:
+      interval: daily
+
+  - package-ecosystem: gomod
+    directory: /revical
+    schedule:
+      interval: daily
