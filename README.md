@@ -3,9 +3,9 @@
 # Revical
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/revical/revical)](https://goreportcard.com/report/github.com/revical/revical)
-![Lines of Code](https://img.shields.io/github/languages/code-size/revical/revical)
+[![Licensed under the MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/skifli/exeme/blob/master/LICENSE)
+[![OSSF Scorecard](https://img.shields.io/ossf-scorecard/github.com/revical/revical?label=openssf%20scorecard&style=flat)](https://api.securityscorecards.dev/projects/github.com/revical/revical)
 [![Discord](https://img.shields.io/discord/1166348582689976411?label=discord)](https://discord.gg/djqx9Xzyjc)
-[![WakaTime](https://wakatime.com/badge/user/b4317b02-0c6d-457b-82a4-a448b8a8d1df/project/018b6102-d6aa-471e-9e3c-d857da656625.svg)](https://wakatime.com/badge/user/b4317b02-0c6d-457b-82a4-a448b8a8d1df/project/018b6102-d6aa-471e-9e3c-d857da656625)
 
 
 - [Revical](#revical)
