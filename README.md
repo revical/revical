@@ -1,12 +1,11 @@
 <!-- Part of the Revical Project, under the MIT license. See '/LICENSE' for license information. SPDX-License-Identifier: MIT License. -->
 
-# Revical
+# Revical [![Discord](https://img.shields.io/discord/1166348582689976411?label=discord)](https://discord.gg/djqx9Xzyjc)
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/revical/revical)](https://goreportcard.com/report/github.com/revical/revical)
 [![Licensed under the MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/skifli/exeme/blob/master/LICENSE)
 [![OSSF Scorecard](https://img.shields.io/ossf-scorecard/github.com/revical/revical?label=openssf%20scorecard&style=flat)](https://api.securityscorecards.dev/projects/github.com/revical/revical)
-[![Discord](https://img.shields.io/discord/1166348582689976411?label=discord)](https://discord.gg/djqx9Xzyjc)
-
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8039/badge)](https://www.bestpractices.dev/projects/8039)
 
 - [Revical](#revical)
   - [👀 Usage](#-usage)
