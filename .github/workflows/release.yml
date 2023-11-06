@@ -24,7 +24,7 @@ jobs:
           egress-policy: audit
 
       - name: Build Changelog
-        uses: mikepenz/release-changelog-builder-action@162edb95b1a57c11bf799b62984a91983395c738 # v3.7.3
+        uses: mikepenz/release-changelog-builder-action@81ca5f10b8c238cbc36e53691a39273636d7d1f6 # v4.1.0
         with:
           configurationJson: |
             {
