@@ -7,13 +7,13 @@ interface ToolbarState {
 }
 
 export class Toolbar extends Component<ToolbarProps, ToolbarState> {
-    state: ToolbarState = { currentTool: "flashcards" };
+	state: ToolbarState = { currentTool: "flashcards" };
 
-    render() {
-        return (
-            <div id="toolbar">
+	render() {
+		return (
+			<div id="toolbar">
                 Toolbar
-            </div>
-        );
-    }
+			</div>
+		);
+	}
 }

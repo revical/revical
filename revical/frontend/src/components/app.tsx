@@ -8,12 +8,12 @@ interface AppProps { }
 interface AppState { }
 
 export class App extends Component<AppProps, AppState> {
-    render() {
-        return (
-            <>
-                <Titlebar />
-                <Window />
-            </>
-        );
-    }
+	render() {
+		return (
+			<>
+				<Titlebar />
+				<Window />
+			</>
+		);
+	}
 }

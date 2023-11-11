@@ -8,12 +8,12 @@ interface WindowProps { }
 interface WindowState { }
 
 export class Window extends Component<WindowProps, WindowState> {
-    render() {
-        return (
-            <div id="window">
-                <Toolbar />
-                <WindowContents />
-            </div>
-        );
-    }
+	render() {
+		return (
+			<div id="window">
+				<Toolbar />
+				<WindowContents />
+			</div>
+		);
+	}
 }
