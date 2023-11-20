@@ -11,6 +11,11 @@ repos:
   rev: v8.38.0
   hooks:
   - id: eslint
+    files: \.[jt]sx?$  # *.js, *.jsx, *.ts and *.tsx
+    types: [file]
+    additional_dependencies:
+    -   eslint@8.53.0
+    -   eslint-plugin-react@7.33.2
 - repo: https://github.com/pre-commit/pre-commit-hooks
   rev: v4.4.0
   hooks:
