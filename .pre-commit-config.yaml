@@ -11,6 +11,7 @@ repos:
   rev: v8.38.0
   hooks:
   - id: eslint
+    args: ["--fix", "--no-exit"]
     files: \.[jt]sx?$  # *.js, *.jsx, *.ts and *.tsx
     types: [file]
     additional_dependencies:
