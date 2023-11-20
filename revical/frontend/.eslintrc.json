@@ -33,5 +33,6 @@
             "error",
             "always"
         ]
-    }
+    },
+    "root": true
 }
