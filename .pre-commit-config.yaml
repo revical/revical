@@ -16,7 +16,9 @@ repos:
     additional_dependencies:
     - eslint@8.53.0
     - eslint-plugin-react@7.33.2
-    - @typescript-eslint/eslint-plugin@6.10.0
+    - typescript@4.6.4
+    - "@typescript-eslint/parser@6.10.0"
+    - "@typescript-eslint/eslint-plugin@6.10.0"
 - repo: https://github.com/pre-commit/pre-commit-hooks
   rev: v4.4.0
   hooks:
