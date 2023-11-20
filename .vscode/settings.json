@@ -13,7 +13,8 @@
         "**/package*json*": true,
         "**/tsconfig*.json": true,
         "**/vite.config.ts": true,
-        "**/frontend/wailsjs": true
+        "**/frontend/wailsjs": true,
+        "**/.eslintrc.json": true,
     },
     "git.enableSmartCommit": true,
     "git.confirmSync": false,
