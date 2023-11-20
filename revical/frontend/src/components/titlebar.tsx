@@ -7,6 +7,10 @@ interface TitlebarProps { }
 interface TitlebarState { }
 
 export class Titlebar extends Component<TitlebarProps, TitlebarState> {
+	refs = {
+		titlebar: HTMLDivElement
+	};
+
 	render() {
 		return (
 			<div id="titlebar" data-wails-drag>

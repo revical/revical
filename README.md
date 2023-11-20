@@ -36,7 +36,7 @@ To learn more about contributing to Revical, please read the [**Contributing Gui
 
 ### 🛠️ Developer Documentation
 
-To learn more about the Revical codebase, please read [**`docs/developers/README.md`**](docs/developers/README.md). It includes guides on how to set up your development environment, how to build the project, and how to contribute to the project.
+To learn more about the Revical codebase, please read [**`docs/developers/README.md`**](docs/developers/README.md). It includes guides on how to set up your development environmentow to build the project, and how to contribute to the project.
 
 ## 👤 User Documentation
 

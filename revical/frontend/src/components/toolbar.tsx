@@ -3,7 +3,7 @@ import { Component, h } from "preact";
 interface ToolbarProps { }
 
 interface ToolbarState {
-    currentTool: string;
+	currentTool: string;
 }
 
 export class Toolbar extends Component<ToolbarProps, ToolbarState> {
@@ -12,7 +12,7 @@ export class Toolbar extends Component<ToolbarProps, ToolbarState> {
 	render() {
 		return (
 			<div id="toolbar">
-                Toolbar
+				Toolbar
 			</div>
 		);
 	}

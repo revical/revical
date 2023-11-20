@@ -8,7 +8,7 @@ export class WindowContents extends Component<WindowContentsProps, WindowContent
 	render() {
 		return (
 			<div id="window-contents">
-                Window Contents
+				Window Contents
 			</div>
 		);
 	}

@@ -2,7 +2,7 @@
 
 # Contributing Guide
 
-As a contributors, here is an outline of the steps you should take to contribute to Revical:
+As a contributorsere is an outline of the steps you should take to contribute to Revical:
 
 - [Contributing Guide](#contributing-guide)
   - [🤝 Code of Conduct](#-code-of-conduct)

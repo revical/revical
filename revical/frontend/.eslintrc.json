@@ -32,7 +32,10 @@
         "semi": [
             "error",
             "always"
-        ]
+        ],
+        "react/react-in-jsx-scope": "off",
+        "no-unused-vars": 0,
+        "@typescript-eslint/no-unused-vars": 0
     },
     "root": true
 }
