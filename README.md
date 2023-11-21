@@ -24,8 +24,8 @@ Revical is in the *alpha* stages of development, and so it is not yet ready for 
 
 ## 📚 Learn More
 
-- **Website:** [`revical.github.io`](https://revical.github.io)
-- **Blog:** [`revical.github.io/blog`](https://revical.github.io/blog)
+- **Website:** [revical.github.io](https://revical.github.io)
+- **Blog:** [revical.github.io/blog](https://revical.github.io/blog)
 - **Docs:**
   - **_User Docs:_** [👤 User Documentation](#-user-documentation).
   - **_Developer Docs:_** [🌟 Contributing](#-contributing).
@@ -37,11 +37,11 @@ To learn more about contributing to Revical, please read the [**Contributing Gui
 
 ### 🛠️ Developer Documentation
 
-To learn more about the Revical codebase, please read [**`docs/developers/README.md`**](docs/developers/README.md). It includes guides on how to set up your development environmentow to build the project, and how to contribute to the project.
+To learn more about the Revical codebase, please read [**docs/developers/README.md**](docs/developers/README.md). It includes guides on how to set up your development environment, how to build the project, and how to contribute to the project.
 
 ## 👤 User Documentation
 
-To learn more about how to use Revical, please navigate to [**`revical.github.io/docs`**](https://revical.github.io/docs). It includes guides on how to use Revical, and the features that are available.
+To learn more about how to use Revical, please navigate to [**revical.github.io/docs**](https://revical.github.io/docs). It includes guides on how to use Revical, and the features that are available.
 
 ## ✨ Inspiration
 
