@@ -6,8 +6,9 @@
 [![Licensed under the MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/skifli/exeme/blob/master/LICENSE)
 [![OSSF Scorecard](https://img.shields.io/ossf-scorecard/github.com/revical/revical?label=openssf%20scorecard&style=flat)](https://api.securityscorecards.dev/projects/github.com/revical/revical)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8039/badge)](https://www.bestpractices.dev/projects/8039)
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/revical/revical/main.svg)](https://results.pre-commit.ci/latest/github/revical/revical/main)
 
-- [Revical](#revical)
+- [Revical ](#revical-)
   - [👀 Usage](#-usage)
   - [📚 Learn More](#-learn-more)
   - [🌟 Contributing](#-contributing)

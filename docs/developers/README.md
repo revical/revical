@@ -5,6 +5,7 @@
 - [🛠️ Developer Documentation](#️-developer-documentation)
   - [🖥️ Environment Setup](#️-environment-setup)
     - [Cloning the Repository](#cloning-the-repository)
+    - [Setting up *pre-commit*](#setting-up-pre-commit)
   - [Making Changes](#making-changes)
     - [Testing Code](#testing-code)
     - [Compiling Code](#compiling-code)
@@ -18,6 +19,7 @@
 Requirements to setup the development environment for Revical:
 
 - [**Git**](https://git-scm.com/downloads) - For cloning the repository.
+- [**Python**](https://www.python.org/downloads/) - For installing *pre-commit*.
 - [**Wails**](https://wails.app/) - Used to build the frontend and backend together.
   - Wails has an [**Install Guide**](https://wails.io/docs/gettingstarted/installation) guide that is recommended to follow. Wails has other dependencies, but they will not be listed here to avoid redundancy.
 
@@ -27,8 +29,19 @@ To clone the repository, run the following command:
 
 ```bash
 git clone https://github.com/revical/revical
-cd revical/revical
+cd revical
 ```
+
+### Setting up *pre-commit*
+
+To setup *pre-commit*, run the following command:
+
+```bash
+python -m pip -r requirements.txt && pre-commit install
+```
+
+> [!NOTE]\
+> If the command fails, try replacing **`python`** with **`python3`**.
 
 ## Making Changes
 

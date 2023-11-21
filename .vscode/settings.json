@@ -7,7 +7,7 @@
     "editor.fontSize": 13,
     "editor.formatOnSave": true,
     "editor.suggest.localityBonus": true,
-    "files.exclude": {
+    "files.exclude1": {
         "**/dist": true,
         "**/node_modules": true,
         "**/package*json*": true,
