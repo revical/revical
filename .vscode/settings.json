@@ -7,7 +7,7 @@
     "editor.fontSize": 13,
     "editor.formatOnSave": true,
     "editor.suggest.localityBonus": true,
-    "files.exclude1": {
+    "files.exclude": {
         "**/dist": true,
         "**/node_modules": true,
         "**/package*json*": true,
@@ -15,6 +15,7 @@
         "**/vite.config.ts": true,
         "**/frontend/wailsjs": true,
         "**/.eslintrc.json": true,
+        "**/vite-env.d.ts": true
     },
     "git.enableSmartCommit": true,
     "git.confirmSync": false,
