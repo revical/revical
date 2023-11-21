@@ -47,7 +47,7 @@ python -m pip -r requirements.txt && pre-commit install
 
 ### Testing Code
 
-Run **`wails dev`** to start the development server. The application will be available at `localhost:34115`. You can find more information about the `wails dev` command in the [**Wails Documentation**](https://wails.io/docs/reference/cli/#dev).
+Run **`wails dev`** to start the development server. The application will be available at `localhost:5173`. You can find more information about the `wails dev` command in the [**Wails Documentation**](https://wails.io/docs/reference/cli/#dev).
 
 > [!NOTE]\
 > Wails automatically monitors the directory for changes, and if it finds any, it rebuilds the application.
