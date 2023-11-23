@@ -54,6 +54,6 @@ Revical is inspired by many projects, but namely:
 Revical is also made possible by the following projects:
 
 - [**Go**](https://golang.org) - An open source programming language that makes it easy to build simple, reliable, and efficient software.
-- [**Preact**](https://preactjs.com) - A fast 3kB alternative to React with the same modern API.
+- [**React**](https://react.dev) - A library for building user interfaces.
 - [**Typescript**](https://www.typescriptlang.org) - A typed superset of JavaScript that compiles to plain JavaScript.
 - [**Wails**](https://wails.io) - A framework for building desktop apps using Go and Web Technologies.

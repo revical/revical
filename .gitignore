@@ -24,3 +24,4 @@ go.work
 build/bin
 node_modules
 frontend/dist
+revical-data/

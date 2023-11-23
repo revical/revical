@@ -2,9 +2,13 @@ package main
 
 import (
 	"context"
+	"os"
 
 	"github.com/wailsapp/wails/v2/pkg/runtime"
 )
+
+// Whether to use portable mode or not
+var REVICAL_PORTABLE_MODE = os.Getenv("REVICAL_PORTABLE_MODE")
 
 // App struct
 type App struct {
