@@ -1,7 +1,7 @@
 import React from "react";
 
-import { Toolbar } from "./toolbar";
-import { WindowContents } from "./window-contents";
+import { Sidebar } from "./sidebar";
+import { MainWindow } from "./main-window";
 
 interface AppProps { }
 
@@ -11,8 +11,8 @@ export class App extends React.Component<AppProps, AppState> {
 	render() {
 		return (
 			<>
-				<Toolbar />
-				<WindowContents />
+				<Sidebar />
+				<MainWindow />
 			</>
 		);
 	}

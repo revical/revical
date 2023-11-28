@@ -1,3 +1,5 @@
+/* begin:#app */
+
 #app {
     height: 100vh;
     width: 100vw;
@@ -6,44 +8,79 @@
     flex-direction: row;
 }
 
-#app #titlebar {
+/* begin:#app #sidebar */
+
+#app #sidebar {
+    display: flex;
+    flex-direction: column;
+
+    padding: var(--app_sidebar_padding);
+}
+
+/* begin:#app #sidebar #sidebar-top */
+
+#app #sidebar #sidebar-top {
+    flex-grow: 1;
+}
+
+/* end:#app #sidebar #sidebar-top */
+/* begin:#app #sidebar #sidebar-bottom */
+
+#app #sidebar #sidebar-bottom {}
+
+/* end:#app #sidebar #sidebar-bottom */
+/* end:#app #sidebar */
+/* begin:#app#main-window */
+
+#app #main-window {
+    flex-grow: 1;
+}
+
+/* begin:#app #main-window #titlebar */
+
+#app #main-window #titlebar {
     display: flex;
     flex-direction: row;
 }
 
-#app #titlebar #titlebar-title {
+/* begin:#app #main-window #titlebar #titlebar-title */
+
+#app #main-window #titlebar #titlebar-title {
     align-items: center;
     display: flex;
     flex-grow: 1;
-    padding-left: 2.5px;
 }
 
-#app #titlebar #titlebar-title #title-label {
-    font-size: 0.75rem;
+#app #main-window #titlebar #titlebar-title #titlebar-title-label {
+    font-size: var(--titlebar_title_label_font-size);
 }
 
-#app #titlebar #titlebar-controls {
+/* end:#app #main-window #titlebar #titlebar-title */
+/* begin:#app #main-window #titlebar #titlebar-controls */
+
+#app #main-window #titlebar #titlebar-controls {
     display: flex;
     flex-direction: row;
 }
 
-#app #titlebar #titlebar-controls .icon {
-    padding: 4px 16px;
+#app #main-window #titlebar #titlebar-controls .titlebar-controls-icon {
+    padding: var(--app_main-window_titlebar_controls_icon_padding-vertical) var(--app_main-window_titlebar_controls_icon_padding-horizontal);
     transition: background-color 0.1s ease-in-out;
 }
 
-#app #titlebar #titlebar-controls .icon:hover {
-    background-color: #E0E0E0;
+#app #main-window #titlebar #titlebar-controls .titlebar-controls-icon:hover {
+    background-color: var(--app_main-window_titlebar_controls_icon_hover_background-color);
 }
 
-#app #titlebar #titlebar-controls .icon#close:hover {
-    background-color: #FC3131;
+#app #main-window #titlebar #titlebar-controls .titlebar-controls-icon#titlebar-controls-close:hover {
+    background-color: var(--app_main-window_titlebar_controls_icon_close_hover_background-color);
 }
 
-#app #titlebar #titlebar-controls .icon img {
+#app #main-window #titlebar #titlebar-controls .titlebar-controls-icon img {
     width: 14px;
 }
 
-#app #window-contents {
-    flex-grow: 1;
-}
+/* end:#app #main-window #titlebar #titlebar-controls */
+/* end:#app #main-window #titlebar */
+/* end:#app #main-window */
+/* end:#app */

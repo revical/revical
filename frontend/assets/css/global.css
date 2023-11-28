@@ -2,6 +2,15 @@
 
 @import "./layout.css";
 
+:root {
+    --app_sidebar_padding: 10px;
+    --titlebar_title_label_font-size: 0.75rem;
+    --app_main-window_titlebar_controls_icon_padding-vertical: 4px;
+    --app_main-window_titlebar_controls_icon_padding-horizontal: 16px;
+    --app_main-window_titlebar_controls_icon_hover_background-color: #E0E0E0;
+    --app_main-window_titlebar_controls_icon_close_hover_background-color: #FC3131;
+}
+
 body {
     scroll-behavior: smooth;
 }
